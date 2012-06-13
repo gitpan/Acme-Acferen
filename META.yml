@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-Acferen
-version:            0.01
+version:            0.02
 abstract:           The great new Acme::Acferen!
 author:
     - Andrew Feren <acferen@cpan.org>
